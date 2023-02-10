@@ -1,0 +1,15 @@
+{
+	"path_1": {
+		"bandwidth_list": [3.1],
+		"delay_list": ["50ms"],
+		"loss_list": [0.0]
+	},
+	"path_2": {
+		"bandwidth_list": [3.1],
+		"delay_list": ["50ms"],
+		"loss_list": [0.0]
+	},
+	"maximum_experiment_count": 1,
+	"split_ratios": [1],
+	"runs_per_combination": 1
+}
