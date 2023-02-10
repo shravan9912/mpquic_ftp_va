@@ -89,10 +89,10 @@ github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:
 github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58/go.mod h1:6lfFZQK844Gfx8o5WFuvpxWRwnSoipWe/p622j1v06w=
 github.com/shravan9912/gorl v0.0.0-20210528174248-96a4ef00ffc7 h1:CswVGRZdHz60oAnnGNct1Buc9577lyjatB2bDPZg2rk=
 github.com/shravan9912/gorl v0.0.0-20210528174248-96a4ef00ffc7/go.mod h1:dvSKTzsoK2JwMhtsPrIJAk9gbOSrv4ar8fIzWnaU4Us=
-github.com/shravan9912/mpquic_ml v0.0.0-20210608120659-5cf2844a34c5 h1:c/o7+u+beyrYhFk8CFLEArbTA/683NEIrjx7tcxBGo8=
-github.com/shravan9912/mpquic_ml v0.0.0-20210608120659-5cf2844a34c5/go.mod h1:is8+H2lusjvBKLXDNOSsGG5TeExQeIAJYkLvHTobvTg=
-github.com/shravan9912/mpquic_ml v0.0.0-20210609065619-e18e48aa19ff h1:trcAOnsCmOHhjYrgx+LfmM14jQpdevrut2mjgVFaCdQ=
-github.com/shravan9912/mpquic_ml v0.0.0-20210609065619-e18e48aa19ff/go.mod h1:is8+H2lusjvBKLXDNOSsGG5TeExQeIAJYkLvHTobvTg=
+github.com/shravan9912/mpquic_ml_va v0.0.0-20210608120659-5cf2844a34c5 h1:c/o7+u+beyrYhFk8CFLEArbTA/683NEIrjx7tcxBGo8=
+github.com/shravan9912/mpquic_ml_va v0.0.0-20210608120659-5cf2844a34c5/go.mod h1:is8+H2lusjvBKLXDNOSsGG5TeExQeIAJYkLvHTobvTg=
+github.com/shravan9912/mpquic_ml_va v0.0.0-20210609065619-e18e48aa19ff h1:trcAOnsCmOHhjYrgx+LfmM14jQpdevrut2mjgVFaCdQ=
+github.com/shravan9912/mpquic_ml_va v0.0.0-20210609065619-e18e48aa19ff/go.mod h1:is8+H2lusjvBKLXDNOSsGG5TeExQeIAJYkLvHTobvTg=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.2.2/go.mod h1:a8OnRcib4nhh0OaRAV+Yts87kKdq0PP7pXfy6kDkUVs=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=

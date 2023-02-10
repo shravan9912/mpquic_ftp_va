@@ -8,11 +8,11 @@ import (
 	"os"
 	"strings"
 
-	quic "github.com/shravan9912/mpquic_ml"
-	mpqConstants "github.com/shravan9912/mpquic_ml/constants"
+	quic "github.com/shravan9912/mpquic_ml_va"
+	mpqConstants "github.com/shravan9912/mpquic_ml_va/constants"
 
-	"github.com/shravan9912/mpquic_ftp_ml/common"
-	"github.com/shravan9912/mpquic_ftp_ml/constants"
+	"github.com/shravan9912/mpquic_ftp_va/common"
+	"github.com/shravan9912/mpquic_ftp_va/constants"
 )
 
 func main() {

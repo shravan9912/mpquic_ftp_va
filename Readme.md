@@ -6,12 +6,12 @@ The App allows listing and downloading files from server
 
 This Project depends on another private project, which implements MPQUIC
 
-You are expected to have access to [MPQUIC Stand Alone Package](https://github.com/shravan9912/mpquic_ml), to be able to use this application 
+You are expected to have access to [MPQUIC Stand Alone Package](https://github.com/shravan9912/mpquic_ml_va), to be able to use this application 
 
 Go Required: _1.12 +_
 
 ## Pre-Requisites
-- Follow all requirements mentioned in [MPQUIC Repo](https://github.com/shravan9912/mpquic_ml)
+- Follow all requirements mentioned in [MPQUIC Repo](https://github.com/shravan9912/mpquic_ml_va)
 
 ## Enable environment variable: 
 - Check out the sample for env variables needed
